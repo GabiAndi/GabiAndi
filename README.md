@@ -85,6 +85,15 @@ A la mayoría de los proyectos les falta documentación en el README, pero en lo
 3. [Constuir conjunto de herramientas para compilación y depuración.](https://github.com/GabiAndi/Build_toolchains)
 4. [Primeros pasos con Arch Linux.](https://github.com/GabiAndi/First_steps_with_Archlinux)
 
+## Lengüajes mas utilizados por mi
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabiAndi">
+
+</p>
+
+
 ---
 
 ## Contacta conmigo

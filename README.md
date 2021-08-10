@@ -2,6 +2,8 @@
 
 Mi nombre es Gabriel Andrés Aguirre, tengo 22 años y soy estudiante de último año de [Ingeniería en Mecatrónica](https://es.wikipedia.org/wiki/Ingenier%C3%ADa_mecatr%C3%B3nica) de la [Universidad Nacional de Entre Ríos.](https://www.fcal.uner.edu.ar/academica/carreras/grado/ingenieria-en-mecatronica/) Vivo en Concordia, Entre, Ríos, Argentina.
 
+A lo largo de los años, la curiosidad me llevó a leer, investigar, realizar cursos, experimentar y probar siempre cosas nuevas. Es por esto que pude adquirir experiencia en el uso de distintos lengüajes de programación, entornos y herramientas. Si bien no soy experto en todo, me manejo muy bien y aprendo bastante rápido, así que dejo las herramientas que conocí y utilice por lo menos una vez.
+
 ### Legüajes de programación
 
 <p align="center">
@@ -47,7 +49,10 @@ Mi nombre es Gabriel Andrés Aguirre, tengo 22 años y soy estudiante de último
 <img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.9.0/icons/jupyter.svg" />
 <img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/virtualbox.svg" />
 <img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/qemu.svg" />
+<img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/vmware.svg" />
 <img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/docker.svg" />
+<img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/raspberrypi.svg" />
+<img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/rstudio.svg" />
 
 </p>
 

@@ -44,15 +44,15 @@ Ademas cuando tengo tiempo libre realizo algunos proyectos de:
 
 ## Contactame
 
-<section align="center">
+<p align="center">
 
-<img align="center" alt="https://twitter.com/GabeAgui" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/twitter.svg" />
-<img align="center" alt="https://www.linkedin.com/in/gabriel-andr%C3%A9s-aguirre-937297175" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.9.0/icons/linkedin.svg" />
-<img align="center" alt="https://www.instagram.com/gabiandresaguirre/" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.9.0/icons/instagram.svg" />
-<img align="center" alt="https://www.facebook.com/gabriel.aguirre2013" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.9.0/icons/facebook.svg" />
-<img align="center" alt="mailto:gabiandiagui@gmail.com" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.9.0/icons/gmail.svg" />
+<img alt="https://twitter.com/GabeAgui" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/twitter.svg" />
+<img alt="https://www.linkedin.com/in/gabriel-andr%C3%A9s-aguirre-937297175" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.9.0/icons/linkedin.svg" />
+<img alt="https://www.instagram.com/gabiandresaguirre/" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.9.0/icons/instagram.svg" />
+<img alt="https://www.facebook.com/gabriel.aguirre2013" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.9.0/icons/facebook.svg" />
+<img alt="mailto:gabiandiagui@gmail.com" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.9.0/icons/gmail.svg" />
 
-</section>
+</p>
 
 <br>
 <br>

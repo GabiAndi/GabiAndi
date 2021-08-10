@@ -1,6 +1,4 @@
-# Bienvenido a mis repositorios
-
-## Sobre mi
+# Sobre mi
 
 Mi nombre es Gabriel Andrés Aguirre, tengo 22 años y soy estudiante de último año de [Ingeniería en Mecatrónica](https://es.wikipedia.org/wiki/Ingenier%C3%ADa_mecatr%C3%B3nica) de la [Universidad Nacional de Entre Ríos.](https://www.fcal.uner.edu.ar/academica/carreras/grado/ingenieria-en-mecatronica/) Vivo en Concordia, Entre, Ríos, Argentina.
 
@@ -93,13 +91,10 @@ A la mayoría de los proyectos les falta documentación en el README, pero en lo
 
 <p align="center">
 
-<img alt="https://twitter.com/GabeAgui" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/twitter.svg" />
-<img alt="https://www.linkedin.com/in/gabriel-andr%C3%A9s-aguirre-937297175" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.9.0/icons/linkedin.svg" />
-<img alt="https://www.instagram.com/gabiandresaguirre/" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.9.0/icons/instagram.svg" />
-<img alt="https://www.facebook.com/gabriel.aguirre2013" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.9.0/icons/facebook.svg" />
-<img alt="mailto:gabiandiagui@gmail.com" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.9.0/icons/gmail.svg" />
+[<img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/twitter.svg" />](https://twitter.com/GabeAgui)
+[<img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.9.0/icons/linkedin.svg" />](https://www.linkedin.com/in/gabriel-andr%C3%A9s-aguirre-937297175)
+[<img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.9.0/icons/instagram.svg" />](https://www.instagram.com/gabiandresaguirre/)
+[<img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.9.0/icons/facebook.svg" />](https://www.facebook.com/gabriel.aguirre2013)
+[<img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.9.0/icons/gmail.svg" />](mailto:gabiandiagui@gmail.com)
 
 </p>
-
-<br>
-<br>

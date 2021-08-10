@@ -13,6 +13,7 @@ Mi nombre es Gabriel Andrés Aguirre, tengo 22 años y soy estudiante de último
 <img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.9.0/icons/python.svg" />
 <img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.9.0/icons/javascript.svg" />
 <img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.9.0/icons/kotlin.svg" />
+<img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.9.0/icons/r.svg" />
 
 </p>
 
@@ -26,6 +27,7 @@ Mi nombre es Gabriel Andrés Aguirre, tengo 22 años y soy estudiante de último
 <img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.9.0/icons/anaconda.svg" />
 <img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.9.0/icons/tensorflow.svg" />
 <img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.9.0/icons/keras.svg" />
+<img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/opencv.svg" />
 <img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.9.0/icons/visualstudio.svg" />
 <img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.9.0/icons/apachenetbeanside.svg" />
 <img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.9.0/icons/eclipseide.svg" />
@@ -38,6 +40,14 @@ Mi nombre es Gabriel Andrés Aguirre, tengo 22 años y soy estudiante de último
 <img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.9.0/icons/gimp.svg" />
 <img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.9.0/icons/autodesk.svg" />
 <img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.9.0/icons/gnu.svg" />
+<img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.9.0/icons/gnubash.svg" />
+<img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.9.0/icons/octave.svg" />
+<img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.9.0/icons/git.svg" />
+<img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.9.0/icons/github.svg" />
+<img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.9.0/icons/jupyter.svg" />
+<img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/virtualbox.svg" />
+<img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/qemu.svg" />
+<img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/docker.svg" />
 
 </p>
 
@@ -51,13 +61,16 @@ Mi nombre es Gabriel Andrés Aguirre, tengo 22 años y soy estudiante de último
 
 </p>
 
-### Ofimática
+### Textos y ofimática
 
 <p align="center">
 
-<img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/microsoftoffice.svg" />
+<img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/microsoftword.svg" />
+<img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/microsoftpowerpoint.svg" />
+<img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/microsoftexcel.svg" />
 <img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/libreoffice.svg" />
 <img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/latex.svg" />
+<img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/markdown.svg" />
 
 </p>
 

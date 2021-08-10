@@ -2,23 +2,70 @@
 
 ## Sobre mi
 
-Mi nombre es Gabriel Andrés Aguirre, tengo 22 años y soy estudiante de último año de [Ingeniería en Mecatrónica](https://es.wikipedia.org/wiki/Ingenier%C3%ADa_mecatr%C3%B3nica) de la [Universidad Nacional de Entre Ríos](https://www.fcal.uner.edu.ar/academica/carreras/grado/ingenieria-en-mecatronica/), vivo en Concordia, Entre, Ríos, Argentina. Mis habilidades y disiplinas en las cuales me especializo son:
+Mi nombre es Gabriel Andrés Aguirre, tengo 22 años y soy estudiante de último año de [Ingeniería en Mecatrónica](https://es.wikipedia.org/wiki/Ingenier%C3%ADa_mecatr%C3%B3nica) de la [Universidad Nacional de Entre Ríos.](https://www.fcal.uner.edu.ar/academica/carreras/grado/ingenieria-en-mecatronica/) Vivo en Concordia, Entre, Ríos, Argentina.
 
-- Microcontroladores y sistemas embebidos.
-- Electrónica.
-- Sistemas operativos.
-- Programación embebida, movil y de escritorio.
+### Legüajes de programación
 
-Ademas cuando tengo tiempo libre realizo algunos proyectos de:
+<p align="center">
 
-- Modelado 3D en CAD.
-- Modelado y renderizado 3D en blender.
-- Simulación y puesta en escena de 3D en motores gráficos (Unreal Engine 4).
-- Juegos en 2D Pixel Art (Unity 5).
-- Programación de dispositivos Android.
-- Programación Bare Metal de dispositivos ARM Cortex-M y Cortex-A.
+<img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.9.0/icons/c.svg" />
+<img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.9.0/icons/cplusplus.svg" />
+<img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.9.0/icons/csharp.svg" />
+<img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.9.0/icons/java.svg" />
+<img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.9.0/icons/python.svg" />
+<img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.9.0/icons/javascript.svg" />
+<img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.9.0/icons/kotlin.svg" />
+
+</p>
+
+### Frameworks, IDEs, Tools, etc
+
+<p align="center">
+
+<img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.9.0/icons/androidstudio.svg" />
+<img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.9.0/icons/qt.svg" />
+<img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.9.0/icons/pycharm.svg" />
+<img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.9.0/icons/anaconda.svg" />
+<img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.9.0/icons/tensorflow.svg" />
+<img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.9.0/icons/keras.svg" />
+<img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.9.0/icons/visualstudio.svg" />
+<img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.9.0/icons/apachenetbeanside.svg" />
+<img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.9.0/icons/eclipseide.svg" />
+<img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.9.0/icons/cmake.svg" />
+<img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.9.0/icons/arduino.svg" />
+<img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.9.0/icons/unity.svg" />
+<img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.9.0/icons/unrealengine.svg" />
+<img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.9.0/icons/blender.svg" />
+<img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.9.0/icons/inkscape.svg" />
+<img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.9.0/icons/gimp.svg" />
+<img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.9.0/icons/autodesk.svg" />
+<img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.9.0/icons/gnu.svg" />
+
+</p>
+
+### Sistemas operativos
+
+<p align="center">
+
+<img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/android.svg" />
+<img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/windows.svg" />
+<img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/linux.svg" />
+
+</p>
+
+### Ofimática
+
+<p align="center">
+
+<img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/microsoftoffice.svg" />
+<img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/libreoffice.svg" />
+<img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/latex.svg" />
+
+</p>
 
 ## Proyectos realizados durante mi carrera de Ingeniería en Mecatrónica
+
+A la mayoría de los proyectos les falta documentación en el README, pero en los pdf esta todo mas detallado.
 
 1. [Túnel de viento para pruebas con temperatura constante.](https://github.com/GabiAndi/UNER_Tunel_de_viento)
 2. [Calentador por inducción.](https://github.com/GabiAndi/UNER_Calentador_por_induccion)
@@ -42,7 +89,7 @@ Ademas cuando tengo tiempo libre realizo algunos proyectos de:
 
 ---
 
-## Contactame
+## Contacta conmigo
 
 <p align="center">
 

@@ -111,10 +111,7 @@ A la mayoría de los proyectos les falta documentación en el README, pero en lo
 
 </p>
 
-
----
-
-## Contacta conmigo
+# Contacta conmigo
 
 <p align="center">
 
